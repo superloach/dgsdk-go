@@ -1,2 +1,2 @@
-# dsdk-go
-Discord SDK wrapper in Go.
+# dgsdk-go
+Discord Game SDK wrapper in Go.
